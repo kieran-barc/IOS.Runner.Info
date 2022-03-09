@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="18122" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="YMz-mZ-71J">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="18093"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="collection view cell content view" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Collection View Controller-->
+        <scene sceneID="HeY-Hy-akF">
+            <objects>
+                <collectionViewController id="3CI-S2-X85" customClass="CollectionViewController" customModule="IOS_Runner_Info" customModuleProvider="target" sceneMemberID="viewController">
+                    <collectionView key="view" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" dataMode="prototypes" id="iyL-dv-MEa">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="808"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <collectionViewFlowLayout key="collectionViewLayout" automaticEstimatedItemSize="YES" minimumLineSpacing="10" minimumInteritemSpacing="10" id="dCJ-DV-fS3">
+                            <size key="itemSize" width="170" height="125"/>
+                            <size key="headerReferenceSize" width="0.0" height="0.0"/>
+                            <size key="footerReferenceSize" width="0.0" height="0.0"/>
+                            <inset key="sectionInset" minX="0.0" minY="10" maxX="0.0" maxY="100"/>
+                        </collectionViewFlowLayout>
+                        <cells>
+                            <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="Cell" id="zWN-k7-gKO" customClass="CollectionViewCell" customModule="IOS_Runner_Info" customModuleProvider="target">
+                                <rect key="frame" x="81" y="10" width="252" height="171"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <collectionViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" id="97G-Xd-8G2">
+                                    <rect key="frame" x="0.0" y="0.0" width="252" height="171"/>
+                                    <autoresizingMask key="autoresizingMask"/>
+                                    <subviews>
+                                        <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="nissan 370z" translatesAutoresizingMaskIntoConstraints="NO" id="flZ-vE-7zq" userLabel="CellImageView">
+                                            <rect key="frame" x="0.0" y="0.0" width="252" height="171"/>
+                                            <constraints>
+                                                <constraint firstAttribute="height" constant="169" id="0yH-eI-Rk8"/>
+                                                <constraint firstAttribute="width" constant="250" id="18K-gT-R7a"/>
+                                            </constraints>
+                                        </imageView>
+                                    </subviews>
+                                    <constraints>
+                                        <constraint firstItem="flZ-vE-7zq" firstAttribute="top" secondItem="97G-Xd-8G2" secondAttribute="top" id="DlT-TM-hTa"/>
+                                        <constraint firstAttribute="trailing" secondItem="flZ-vE-7zq" secondAttribute="trailing" id="TcA-37-0Zw"/>
+                                        <constraint firstItem="flZ-vE-7zq" firstAttribute="leading" secondItem="97G-Xd-8G2" secondAttribute="leading" id="iiS-RI-SG3"/>
+                                        <constraint firstAttribute="bottom" secondItem="flZ-vE-7zq" secondAttribute="bottom" id="sSs-IW-KG3"/>
+                                    </constraints>
+                                </collectionViewCellContentView>
+                                <size key="customSize" width="252" height="171"/>
+                                <connections>
+                                    <outlet property="cellImageView" destination="flZ-vE-7zq" id="mMf-7V-Yjs"/>
+                                </connections>
+                            </collectionViewCell>
+                        </cells>
+                        <connections>
+                            <outlet property="dataSource" destination="3CI-S2-X85" id="Een-8N-g7c"/>
+                            <outlet property="delegate" destination="3CI-S2-X85" id="AEf-tX-fL7"/>
+                        </connections>
+                    </collectionView>
+                    <navigationItem key="navigationItem" id="UGA-tX-Bho"/>
+                </collectionViewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="xx9-Il-b37" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-610.14492753623188" y="-3.3482142857142856"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="nE3-G9-ERq">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="YMz-mZ-71J" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" translucent="NO" id="3oc-wE-mJz">
+                        <rect key="frame" x="0.0" y="44" width="414" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                        <color key="barTintColor" systemColor="labelColor"/>
+                        <textAttributes key="titleTextAttributes">
+                            <color key="textColor" systemColor="systemBackgroundColor"/>
+                        </textAttributes>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="3CI-S2-X85" kind="relationship" relationship="rootViewController" id="EuJ-Nl-1Gb"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="mHY-mi-wVT" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-1520.289855072464" y="-3.3482142857142856"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="nissan 370z" width="1920" height="1080"/>
+        <systemColor name="labelColor">
+            <color white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>
