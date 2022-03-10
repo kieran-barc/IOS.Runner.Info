@@ -15,6 +15,7 @@
 		65ABF03527B42E0F00D51FBB /* CollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65ABF03427B42E0F00D51FBB /* CollectionViewController.swift */; };
 		65ABF03727B42E2000D51FBB /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65ABF03627B42E2000D51FBB /* CollectionViewCell.swift */; };
 		65ABF03927BADBB300D51FBB /* JDMCars.plist in Resources */ = {isa = PBXBuildFile; fileRef = 65ABF03827BADBB300D51FBB /* JDMCars.plist */; };
+		8096C64A27DA7F5500B169DD /* Shoulders.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8096C64927DA7F5500B169DD /* Shoulders.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		65ABF03427B42E0F00D51FBB /* CollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewController.swift; sourceTree = "<group>"; };
 		65ABF03627B42E2000D51FBB /* CollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
 		65ABF03827BADBB300D51FBB /* JDMCars.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = JDMCars.plist; sourceTree = "<group>"; };
+		8096C64927DA7F5500B169DD /* Shoulders.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Shoulders.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				65ABF02B27B42C2600D51FBB /* LaunchScreen.storyboard */,
 				65ABF02E27B42C2600D51FBB /* Info.plist */,
 				65ABF03827BADBB300D51FBB /* JDMCars.plist */,
+				8096C64927DA7F5500B169DD /* Shoulders.plist */,
 			);
 			path = IOS.Runner.Info;
 			sourceTree = "<group>";
@@ -132,6 +135,7 @@
 			files = (
 				65ABF02D27B42C2600D51FBB /* LaunchScreen.storyboard in Resources */,
 				65ABF02A27B42C2600D51FBB /* Assets.xcassets in Resources */,
+				8096C64A27DA7F5500B169DD /* Shoulders.plist in Resources */,
 				65ABF02827B42C2500D51FBB /* Main.storyboard in Resources */,
 				65ABF03927BADBB300D51FBB /* JDMCars.plist in Resources */,
 			);
