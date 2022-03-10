@@ -3,54 +3,116 @@
 <plist version="1.0">
 <array>
 	<dict>
-		<key>Name</key>
-		<string>Fairlady 370z</string>
-		<key>Image</key>
-		<string>nissan 370z</string>
-		<key>Engine</key>
-		<string>3.7 Liter V6</string>
-		<key>Company</key>
-		<string>Nissan</string>
+		<key>Chest</key>
+		<dict>
+			<key>Wide Grip Bench Press</key>
+			<dict>
+				<key>Name</key>
+				<string></string>
+				<key>Description</key>
+				<string></string>
+				<key>Image</key>
+				<string></string>
+			</dict>
+			<key>Dumbbell Chest Flys</key>
+			<dict/>
+			<key>Hex Dumbbell Press</key>
+			<dict/>
+			<key>Front Dumbbell Raise</key>
+			<string></string>
+		</dict>
+		<key>Bicep</key>
+		<dict>
+			<key>Dumbbell Curl</key>
+			<string></string>
+			<key>Reverse Dumbell Curl</key>
+			<string></string>
+			<key>Wide Dumbbell Curl</key>
+			<string></string>
+			<key>Hammer Dumbbell Curl</key>
+			<string></string>
+		</dict>
+		<key>Tricep</key>
+		<dict>
+			<key>Dips</key>
+			<string></string>
+			<key>Overhead Tricep Extensions</key>
+			<string></string>
+			<key>Kickbacks</key>
+			<string></string>
+			<key>Close Bench</key>
+			<string></string>
+		</dict>
+		<key>Shoulders</key>
+		<dict>
+			<key>Shoulder Press</key>
+			<string></string>
+			<key>Arnold Press</key>
+			<string></string>
+			<key>Dumbbell Side Raise</key>
+			<string></string>
+			<key>Dumbbell Shoulder Shrugs</key>
+			<string></string>
+		</dict>
 	</dict>
 	<dict>
-		<key>Name</key>
-		<string>Lancer</string>
-		<key>Image</key>
-		<string>Lancer</string>
-		<key>Engine</key>
-		<string>2.4 Liter 4-Cylinder</string>
-		<key>Company</key>
-		<string>Mitsubishi</string>
+		<key>Core</key>
+		<dict>
+			<key>Plank Hold</key>
+			<string></string>
+			<key>Bicycle Crunches</key>
+			<string></string>
+			<key>Russian Twists</key>
+			<string></string>
+			<key>Reverse Crunches</key>
+			<string></string>
+		</dict>
 	</dict>
 	<dict>
-		<key>Name</key>
-		<string>Supra</string>
-		<key>Image</key>
-		<string>supra</string>
-		<key>Engine</key>
-		<string>2.0 Liter V6</string>
-		<key>Company</key>
-		<string>Toyota</string>
-	</dict>
-	<dict>
-		<key>Name</key>
-		<string>Rx7</string>
-		<key>Image</key>
-		<string>Rx7</string>
-		<key>Engine</key>
-		<string>1.3 Liter Rotary</string>
-		<key>Company</key>
-		<string>Mazda</string>
-	</dict>
-	<dict>
-		<key>Name</key>
-		<string>GTR34</string>
-		<key>Image</key>
-		<string>nissan gtr</string>
-		<key>Engine</key>
-		<string>2.6 Liter Twin Turbocharged</string>
-		<key>Company</key>
-		<string>Nissan</string>
+		<key>Quads</key>
+		<dict>
+			<key>Dumbbell Lunges</key>
+			<string></string>
+			<key>Dumbbell Step-Ups</key>
+			<string></string>
+			<key>Squats</key>
+			<string></string>
+			<key>Bulgerian Split Squat</key>
+			<string></string>
+		</dict>
+		<key>Hamstrings</key>
+		<dict>
+			<key>Dumbbell Romanian Deadlifts</key>
+			<string></string>
+			<key>Single-Leg Glute Bridge</key>
+			<string></string>
+			<key>Bench Hip Thrust</key>
+			<string></string>
+			<key>Weighted Walking Lunges</key>
+			<string></string>
+		</dict>
+		<key>Calves</key>
+		<dict>
+			<key>Calf Raises</key>
+			<string></string>
+			<key>Farmer&apos;s Walk On Tip Toes</key>
+			<string></string>
+			<key>Jumping Jacks</key>
+			<string></string>
+			<key>Step-Ups</key>
+			<string></string>
+		</dict>
+		<key>Glutes</key>
+		<dict>
+			<key>Conventional Deadlift</key>
+			<string></string>
+			<key>Back Squat </key>
+			<string></string>
+			<key>Barbell Glute Bridge</key>
+			<string></string>
+			<key>Walking Lunge</key>
+			<string></string>
+		</dict>
 	</dict>
 </array>
 </plist>
