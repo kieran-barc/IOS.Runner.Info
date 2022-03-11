@@ -285,38 +285,38 @@
 			<key>Calf Raises</key>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Calf Raises</string>
 				<key>Description</key>
-				<string></string>
+				<string>Stand with your torso upright, your feet hip-width apart, and your toes pointing forward. Then, stand on your tip toes and squeeze.</string>
 				<key>Image</key>
-				<string></string>
+				<string>calfRaises</string>
 			</dict>
 			<key>Farmer&apos;s Walk On Tip Toes</key>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Tip-Toe Farmer&apos;s Walk</string>
 				<key>Description</key>
-				<string></string>
+				<string>Grab two dumbbells of reasonable weight and walk in a line on your tiptoes.</string>
 				<key>Image</key>
-				<string></string>
+				<string>farmerWalkTipToe</string>
 			</dict>
 			<key>Jumping Jacks</key>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Jumping Jacks</string>
 				<key>Description</key>
-				<string></string>
+				<string>Start by standing with your feet hip width apart then proceed to jump and flare out your arms and legs.</string>
 				<key>Image</key>
-				<string></string>
+				<string>jumpingJack</string>
 			</dict>
 			<key>Step-Ups</key>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Step-Ups</string>
 				<key>Description</key>
-				<string></string>
+				<string>Find a raised surface then stand up on the surface and repeat with each leg individually.</string>
 				<key>Image</key>
-				<string></string>
+				<string>stepUps</string>
 			</dict>
 		</dict>
 		<key>Glutes</key>
@@ -324,38 +324,38 @@
 			<key>Conventional Deadlift</key>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Conventional Deadlift</string>
 				<key>Description</key>
-				<string></string>
+				<string>With a bar of reasonable weight, bend over and grab the bar with a straight back and then lift and squeeze your glute muscles at the top of the motion.</string>
 				<key>Image</key>
-				<string></string>
+				<string>conventionalDeadlift</string>
 			</dict>
 			<key>Back Squat </key>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Back Squat</string>
 				<key>Description</key>
-				<string></string>
+				<string>With a bar of reasonable weight, place the bar at the top of your back and squat down with a straight back.</string>
 				<key>Image</key>
-				<string></string>
+				<string>backSquat</string>
 			</dict>
 			<key>Barbell Glute Bridge</key>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Barbell Glute Bridge</string>
 				<key>Description</key>
-				<string></string>
+				<string>With a barbel of reasonable weight, find a raised surface to lean against and then place the barbell on the front of your hip and then raise the bar with your glutes.</string>
 				<key>Image</key>
-				<string></string>
+				<string>barbellGluteBridge</string>
 			</dict>
 			<key>Walking Lunge</key>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Walking Lunge</string>
 				<key>Description</key>
-				<string></string>
+				<string>Standing up, lunge with one foot forward and then do the same with your back foot from your final position.</string>
 				<key>Image</key>
-				<string></string>
+				<string>walkingLunge</string>
 			</dict>
 		</dict>
 	</dict>
