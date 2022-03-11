@@ -15,103 +15,348 @@
 				<string></string>
 			</dict>
 			<key>Dumbbell Chest Flys</key>
-			<dict/>
+			<dict>
+				<key>Name</key>
+				<string></string>
+				<key>Description</key>
+				<string></string>
+				<key>Image</key>
+				<string></string>
+			</dict>
 			<key>Hex Dumbbell Press</key>
-			<dict/>
+			<dict>
+				<key>Name</key>
+				<string></string>
+				<key>Description</key>
+				<string></string>
+				<key>Image</key>
+				<string></string>
+			</dict>
 			<key>Front Dumbbell Raise</key>
-			<string></string>
+			<dict>
+				<key>Name</key>
+				<string></string>
+				<key>Description</key>
+				<string></string>
+				<key>Image</key>
+				<string></string>
+			</dict>
 		</dict>
 		<key>Bicep</key>
 		<dict>
 			<key>Dumbbell Curl</key>
-			<string></string>
+			<dict>
+				<key>Name</key>
+				<string></string>
+				<key>Description</key>
+				<string></string>
+				<key>Image</key>
+				<string></string>
+			</dict>
 			<key>Reverse Dumbell Curl</key>
-			<string></string>
+			<dict>
+				<key>Name</key>
+				<string></string>
+				<key>Description</key>
+				<string></string>
+				<key>Image</key>
+				<string></string>
+			</dict>
 			<key>Wide Dumbbell Curl</key>
-			<string></string>
+			<dict>
+				<key>Name</key>
+				<string></string>
+				<key>Description</key>
+				<string></string>
+				<key>Image</key>
+				<string></string>
+			</dict>
 			<key>Hammer Dumbbell Curl</key>
-			<string></string>
+			<dict>
+				<key>Name</key>
+				<string></string>
+				<key>Description</key>
+				<string></string>
+				<key>Image</key>
+				<string></string>
+			</dict>
 		</dict>
 		<key>Tricep</key>
 		<dict>
 			<key>Dips</key>
-			<string></string>
+			<dict>
+				<key>Name</key>
+				<string></string>
+				<key>Description</key>
+				<string></string>
+				<key>Image</key>
+				<string></string>
+			</dict>
 			<key>Overhead Tricep Extensions</key>
-			<string></string>
+			<dict>
+				<key>Name</key>
+				<string></string>
+				<key>Description</key>
+				<string></string>
+				<key>Image</key>
+				<string></string>
+			</dict>
 			<key>Kickbacks</key>
-			<string></string>
+			<dict>
+				<key>Name</key>
+				<string></string>
+				<key>Description</key>
+				<string></string>
+				<key>Image</key>
+				<string></string>
+			</dict>
 			<key>Close Bench</key>
-			<string></string>
+			<dict>
+				<key>Name</key>
+				<string></string>
+				<key>Description</key>
+				<string></string>
+				<key>Image</key>
+				<string></string>
+			</dict>
 		</dict>
 		<key>Shoulders</key>
 		<dict>
 			<key>Shoulder Press</key>
-			<string></string>
+			<dict>
+				<key>Name</key>
+				<string></string>
+				<key>Description</key>
+				<string></string>
+				<key>Image</key>
+				<string></string>
+			</dict>
 			<key>Arnold Press</key>
-			<string></string>
+			<dict>
+				<key>Name</key>
+				<string></string>
+				<key>Description</key>
+				<string></string>
+				<key>Image</key>
+				<string></string>
+			</dict>
 			<key>Dumbbell Side Raise</key>
-			<string></string>
+			<dict>
+				<key>Name</key>
+				<string></string>
+				<key>Description</key>
+				<string></string>
+				<key>Image</key>
+				<string></string>
+			</dict>
 			<key>Dumbbell Shoulder Shrugs</key>
-			<string></string>
+			<dict>
+				<key>Name</key>
+				<string></string>
+				<key>Description</key>
+				<string></string>
+				<key>Image</key>
+				<string></string>
+			</dict>
 		</dict>
 	</dict>
 	<dict>
 		<key>Core</key>
 		<dict>
 			<key>Plank Hold</key>
-			<string></string>
+			<dict>
+				<key>Name</key>
+				<string></string>
+				<key>Description</key>
+				<string></string>
+				<key>Image</key>
+				<string></string>
+			</dict>
 			<key>Bicycle Crunches</key>
-			<string></string>
+			<dict>
+				<key>Name</key>
+				<string></string>
+				<key>Description</key>
+				<string></string>
+				<key>Image</key>
+				<string></string>
+			</dict>
 			<key>Russian Twists</key>
-			<string></string>
+			<dict>
+				<key>Name</key>
+				<string></string>
+				<key>Description</key>
+				<string></string>
+				<key>Image</key>
+				<string></string>
+			</dict>
 			<key>Reverse Crunches</key>
-			<string></string>
+			<dict>
+				<key>Name</key>
+				<string></string>
+				<key>Description</key>
+				<string></string>
+				<key>Image</key>
+				<string></string>
+			</dict>
 		</dict>
 	</dict>
 	<dict>
 		<key>Quads</key>
 		<dict>
 			<key>Dumbbell Lunges</key>
-			<string></string>
+			<dict>
+				<key>Name</key>
+				<string></string>
+				<key>Description</key>
+				<string></string>
+				<key>Image</key>
+				<string></string>
+			</dict>
 			<key>Dumbbell Step-Ups</key>
-			<string></string>
+			<dict>
+				<key>Name</key>
+				<string></string>
+				<key>Description</key>
+				<string></string>
+				<key>Image</key>
+				<string></string>
+			</dict>
 			<key>Squats</key>
-			<string></string>
+			<dict>
+				<key>Name</key>
+				<string></string>
+				<key>Description</key>
+				<string></string>
+				<key>Image</key>
+				<string></string>
+			</dict>
 			<key>Bulgerian Split Squat</key>
-			<string></string>
+			<dict>
+				<key>Name</key>
+				<string></string>
+				<key>Description</key>
+				<string></string>
+				<key>Image</key>
+				<string></string>
+			</dict>
 		</dict>
 		<key>Hamstrings</key>
 		<dict>
 			<key>Dumbbell Romanian Deadlifts</key>
-			<string></string>
+			<dict>
+				<key>Name</key>
+				<string></string>
+				<key>Description</key>
+				<string></string>
+				<key>Image</key>
+				<string></string>
+			</dict>
 			<key>Single-Leg Glute Bridge</key>
-			<string></string>
+			<dict>
+				<key>Name</key>
+				<string></string>
+				<key>Description</key>
+				<string></string>
+				<key>Image</key>
+				<string></string>
+			</dict>
 			<key>Bench Hip Thrust</key>
-			<string></string>
+			<dict>
+				<key>Name</key>
+				<string></string>
+				<key>Description</key>
+				<string></string>
+				<key>Image</key>
+				<string></string>
+			</dict>
 			<key>Weighted Walking Lunges</key>
-			<string></string>
+			<dict>
+				<key>Name</key>
+				<string></string>
+				<key>Description</key>
+				<string></string>
+				<key>Image</key>
+				<string></string>
+			</dict>
 		</dict>
 		<key>Calves</key>
 		<dict>
 			<key>Calf Raises</key>
-			<string></string>
+			<dict>
+				<key>Name</key>
+				<string></string>
+				<key>Description</key>
+				<string></string>
+				<key>Image</key>
+				<string></string>
+			</dict>
 			<key>Farmer&apos;s Walk On Tip Toes</key>
-			<string></string>
+			<dict>
+				<key>Name</key>
+				<string></string>
+				<key>Description</key>
+				<string></string>
+				<key>Image</key>
+				<string></string>
+			</dict>
 			<key>Jumping Jacks</key>
-			<string></string>
+			<dict>
+				<key>Name</key>
+				<string></string>
+				<key>Description</key>
+				<string></string>
+				<key>Image</key>
+				<string></string>
+			</dict>
 			<key>Step-Ups</key>
-			<string></string>
+			<dict>
+				<key>Name</key>
+				<string></string>
+				<key>Description</key>
+				<string></string>
+				<key>Image</key>
+				<string></string>
+			</dict>
 		</dict>
 		<key>Glutes</key>
 		<dict>
 			<key>Conventional Deadlift</key>
-			<string></string>
+			<dict>
+				<key>Name</key>
+				<string></string>
+				<key>Description</key>
+				<string></string>
+				<key>Image</key>
+				<string></string>
+			</dict>
 			<key>Back Squat </key>
-			<string></string>
+			<dict>
+				<key>Name</key>
+				<string></string>
+				<key>Description</key>
+				<string></string>
+				<key>Image</key>
+				<string></string>
+			</dict>
 			<key>Barbell Glute Bridge</key>
-			<string></string>
+			<dict>
+				<key>Name</key>
+				<string></string>
+				<key>Description</key>
+				<string></string>
+				<key>Image</key>
+				<string></string>
+			</dict>
 			<key>Walking Lunge</key>
-			<string></string>
+			<dict>
+				<key>Name</key>
+				<string></string>
+				<key>Description</key>
+				<string></string>
+				<key>Image</key>
+				<string></string>
+			</dict>
 		</dict>
 	</dict>
 </array>
