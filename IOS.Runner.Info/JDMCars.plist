@@ -125,9 +125,9 @@
 			<key>Shoulder Press</key>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Shoulder Press</string>
 				<key>Description</key>
-				<string></string>
+				<string>Standing or sitting with dumbbells at shoulder height with your elbows at a 90-degree angle. Slowly lift the dumbbells above your head without fully straightening your arms. Pause at the top. Slowly return to the start position.</string>
 				<key>Image</key>
 				<string></string>
 			</dict>
