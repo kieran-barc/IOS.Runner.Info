@@ -47,38 +47,38 @@
 			<key>Dumbbell Curl</key>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Dumbell Curl</string>
 				<key>Description</key>
-				<string></string>
+				<string>Let your arms hang down with your palms forward. Curl both arms upward until they’re in front of your shoulders</string>
 				<key>Image</key>
-				<string></string>
+				<string>curls</string>
 			</dict>
 			<key>Reverse Dumbell Curl</key>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Reverse Dumbbell Curl</string>
 				<key>Description</key>
-				<string></string>
+				<string>Let your arms hang down with your wrists forward. Raise your arms up to your chest </string>
 				<key>Image</key>
-				<string></string>
+				<string>reverseCurls</string>
 			</dict>
 			<key>Wide Dumbbell Curl</key>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Wide Dumbbell Curl</string>
 				<key>Description</key>
-				<string></string>
+				<string>Let your arms hang down with your palms facing away from your body. Do the same motion as a curl, but to the side of your body</string>
 				<key>Image</key>
-				<string></string>
+				<string>wideCurls</string>
 			</dict>
 			<key>Hammer Dumbbell Curl</key>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Hammer Dumbbell Curl</string>
 				<key>Description</key>
-				<string></string>
+				<string>Hold the dumbbells vertically and let your arms hang down by your side. Raise your arms up to your shoulders</string>
 				<key>Image</key>
-				<string></string>
+				<string>hammerCurls</string>
 			</dict>
 		</dict>
 		<key>Tricep</key>
