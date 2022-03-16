@@ -129,34 +129,34 @@
 				<key>Description</key>
 				<string>Standing or sitting with dumbbells at shoulder height with your elbows at a 90-degree angle. Slowly lift the dumbbells above your head without fully straightening your arms. Pause at the top. Slowly return to the start position.</string>
 				<key>Image</key>
-				<string></string>
+				<string>Dumbbell Shoulder Press</string>
 			</dict>
 			<key>Arnold Press</key>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Arnold Press</string>
 				<key>Description</key>
-				<string></string>
+				<string>Standing or sitting with dumbbells at shoulder height with your elbows at a 90-degree angle. Slowly twist and lift the dumbbells above your head without fully straightening your arms. Return to the start position and Repeat.</string>
 				<key>Image</key>
-				<string></string>
+				<string>Arnold Press</string>
 			</dict>
 			<key>Dumbbell Side Raise</key>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Dumbbell Side Raise</string>
 				<key>Description</key>
-				<string></string>
+				<string>Stand or sit with a dumbbell in each hand at your sides. Slowly lift the weights out to the side until your arms are parallel with the floor, with the elbow slightly bent.</string>
 				<key>Image</key>
-				<string></string>
+				<string>Dumbbell side raise</string>
 			</dict>
 			<key>Dumbbell Shoulder Shrugs</key>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Dumbbell Shoulder Shrugs</string>
 				<key>Description</key>
-				<string></string>
+				<string>Stand or sit with a dumbbell in each hand at your sides. Slowly shrug the shoulders up and down.</string>
 				<key>Image</key>
-				<string></string>
+				<string>Dumbbell Shoulder Shrugs</string>
 			</dict>
 		</dict>
 	</dict>
