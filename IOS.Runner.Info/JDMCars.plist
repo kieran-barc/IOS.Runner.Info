@@ -207,38 +207,38 @@
 			<key>Dumbbell Lunges</key>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Dumbbell Lunges</string>
 				<key>Description</key>
-				<string></string>
+				<string>stand up straight with dumbbells at your sides. Lunge forward and come back up one leg at a time</string>
 				<key>Image</key>
-				<string></string>
+				<string>lunges</string>
 			</dict>
 			<key>Dumbbell Step-Ups</key>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Dumbbell Step-Ups</string>
 				<key>Description</key>
-				<string></string>
+				<string>Stand up straight behind an elevated surface with dumbbells at your sides. Raise one leg up onto the surface and use it to bring the other leg up. Repeat for both legs for as many reps as you can do</string>
 				<key>Image</key>
-				<string></string>
+				<string>stepUps</string>
 			</dict>
 			<key>Squats</key>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Squats</string>
 				<key>Description</key>
-				<string></string>
+				<string>Stand holding a dumbbell with both hands at your chest with your feet shoulder width apart. With your weight on your heels, squat down until you&apos;re at a 90 degree angle. Then come back up</string>
 				<key>Image</key>
-				<string></string>
+				<string>squats</string>
 			</dict>
 			<key>Bulgerian Split Squat</key>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Bulgerian Split Squat</string>
 				<key>Description</key>
-				<string></string>
+				<string>Stand holding two dumbbells in front of an elevated surface. Put one foot directly underneath your shoulders and the other on with your toes on the surface behind your. Lower yourself down and back up for one rep</string>
 				<key>Image</key>
-				<string></string>
+				<string>bulgSplitSquat</string>
 			</dict>
 		</dict>
 		<key>Hamstrings</key>
