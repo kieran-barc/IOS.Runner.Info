@@ -86,38 +86,38 @@
 			<key>Dips</key>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Dips</string>
 				<key>Description</key>
-				<string></string>
+				<string>Find two bars a little over shoulder width apart and then proceed to push yourself up and down between the two bars.</string>
 				<key>Image</key>
-				<string></string>
+				<string>dips</string>
 			</dict>
 			<key>Overhead Tricep Extensions</key>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Skull Crushers</string>
 				<key>Description</key>
-				<string></string>
+				<string>Using a dumbbell or kettle bell, hold the weight behind your head using both hands and then raise the weight above your head.</string>
 				<key>Image</key>
-				<string></string>
+				<string>skullCrushers</string>
 			</dict>
 			<key>Kickbacks</key>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Tricep Kickbacks</string>
 				<key>Description</key>
-				<string></string>
+				<string>Using a dumbbell, lean slightly forward and then extend your arm behind your back with the weight.</string>
 				<key>Image</key>
-				<string></string>
+				<string>tricepKickbacks</string>
 			</dict>
 			<key>Close Bench</key>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Close Bench</string>
 				<key>Description</key>
-				<string></string>
+				<string>With a bar, do a normal bench press but instead of using a wide grip, grip the bar at the middle with both hands.</string>
 				<key>Image</key>
-				<string></string>
+				<string>closeBench</string>
 			</dict>
 		</dict>
 		<key>Shoulders</key>
