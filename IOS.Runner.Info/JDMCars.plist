@@ -8,38 +8,38 @@
 			<key>Wide Grip Bench Press</key>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Wide Grip Bench Press</string>
 				<key>Description</key>
-				<string></string>
+				<string>Grab the outer most handhold of the bar. Lower down until the bar is touching your chest. Push back up and fully extend your arm. </string>
 				<key>Image</key>
-				<string></string>
+				<string>Wide Grip Bench Press</string>
 			</dict>
 			<key>Dumbbell Chest Flys</key>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Dumbbell Chest Flys</string>
 				<key>Description</key>
-				<string></string>
+				<string>Grab a dumbbell in each hand and lay on a bench. Outstretch your arms keeping a slight bend at the elbow. Then, squeeze as you pull your arms together above your chest. </string>
 				<key>Image</key>
-				<string></string>
+				<string>Dumbbell Chest Flys</string>
 			</dict>
 			<key>Hex Dumbbell Press</key>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Hex Dumbbell Press</string>
 				<key>Description</key>
-				<string></string>
+				<string>Grab two dumbbells and lay on a bench. Hold them close to your chest. Push up and extend your arms then bring them back down to your chest. The dumbbells should remain in contact the entire time. </string>
 				<key>Image</key>
-				<string></string>
+				<string>Hex Dumbbell Press</string>
 			</dict>
 			<key>Front Dumbbell Raise</key>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Front Dumbbell Raise</string>
 				<key>Description</key>
-				<string></string>
+				<string>Grab two dumbbells and have one in each hand. Pull them up from your waist to about chest height keeping your arms extended in front of you. </string>
 				<key>Image</key>
-				<string></string>
+				<string>Front Dumbbell Raise</string>
 			</dict>
 		</dict>
 		<key>Bicep</key>
