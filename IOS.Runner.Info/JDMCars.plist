@@ -8,38 +8,38 @@
 			<key>Wide Grip Bench Press</key>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Wide Grip Bench Press</string>
 				<key>Description</key>
-				<string></string>
+				<string>Grab the outer most handhold of the bar. Lower down until the bar is touching your chest. Push back up and fully extend your arm. </string>
 				<key>Image</key>
-				<string></string>
+				<string>Wide Grip Bench Press</string>
 			</dict>
 			<key>Dumbbell Chest Flys</key>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Dumbbell Chest Flys</string>
 				<key>Description</key>
-				<string></string>
+				<string>Grab a dumbbell in each hand and lay on a bench. Outstretch your arms keeping a slight bend at the elbow. Then, squeeze as you pull your arms together above your chest. </string>
 				<key>Image</key>
-				<string></string>
+				<string>Dumbbell Chest Flys</string>
 			</dict>
 			<key>Hex Dumbbell Press</key>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Hex Dumbbell Press</string>
 				<key>Description</key>
-				<string></string>
+				<string>Grab two dumbbells and lay on a bench. Hold them close to your chest. Push up and extend your arms then bring them back down to your chest. The dumbbells should remain in contact the entire time. </string>
 				<key>Image</key>
-				<string></string>
+				<string>Hex Dumbbell Press</string>
 			</dict>
 			<key>Front Dumbbell Raise</key>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Front Dumbbell Raise</string>
 				<key>Description</key>
-				<string></string>
+				<string>Grab two dumbbells and have one in each hand. Pull them up from your waist to about chest height keeping your arms extended in front of you. </string>
 				<key>Image</key>
-				<string></string>
+				<string>Front Dumbbell Raise</string>
 			</dict>
 		</dict>
 		<key>Bicep</key>
@@ -86,38 +86,38 @@
 			<key>Dips</key>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Dips</string>
 				<key>Description</key>
-				<string></string>
+				<string>Find two bars a little over shoulder width apart and then proceed to push yourself up and down between the two bars.</string>
 				<key>Image</key>
-				<string></string>
+				<string>dips</string>
 			</dict>
 			<key>Overhead Tricep Extensions</key>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Skull Crushers</string>
 				<key>Description</key>
-				<string></string>
+				<string>Using a dumbbell or kettle bell, hold the weight behind your head using both hands and then raise the weight above your head.</string>
 				<key>Image</key>
-				<string></string>
+				<string>skullCrushers</string>
 			</dict>
 			<key>Kickbacks</key>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Tricep Kickbacks</string>
 				<key>Description</key>
-				<string></string>
+				<string>Using a dumbbell, lean slightly forward and then extend your arm behind your back with the weight.</string>
 				<key>Image</key>
-				<string></string>
+				<string>tricepKickbacks</string>
 			</dict>
 			<key>Close Bench</key>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Close Bench</string>
 				<key>Description</key>
-				<string></string>
+				<string>With a bar, do a normal bench press but instead of using a wide grip, grip the bar at the middle with both hands.</string>
 				<key>Image</key>
-				<string></string>
+				<string>closeBench</string>
 			</dict>
 		</dict>
 		<key>Shoulders</key>
