@@ -166,38 +166,38 @@
 			<key>Plank Hold</key>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Plank Hold </string>
 				<key>Description</key>
-				<string></string>
+				<string>Get on your hands and knees. When ready, lift your knees up and hold the position as long as possible.</string>
 				<key>Image</key>
-				<string></string>
+				<string>Plank Hold</string>
 			</dict>
 			<key>Bicycle Crunches</key>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Bicycle Crunches</string>
 				<key>Description</key>
-				<string></string>
+				<string>Lay on your back with your hands behind your head. Lift your knees up and touch your opposite knee to your opposite shoulder. Your legs should look like you’re riding a bike</string>
 				<key>Image</key>
-				<string></string>
+				<string>bicycle crunches</string>
 			</dict>
 			<key>Russian Twists</key>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Russian Twists</string>
 				<key>Description</key>
-				<string></string>
+				<string>Lie down with your legs bent at the knees. Elevate your upper body so that it creates a V shape with your thighs. Twist your torso to the right, and left. Repeat. </string>
 				<key>Image</key>
-				<string></string>
+				<string>Russian Twists</string>
 			</dict>
-			<key>Reverse Crunches</key>
+			<key>Six Inches</key>
 			<dict>
 				<key>Name</key>
-				<string></string>
+				<string>Six Inches</string>
 				<key>Description</key>
-				<string></string>
+				<string>lay on your back on the floor. Slowly lift your legs up 6 inches above the ground and hold. Keep your legs straight</string>
 				<key>Image</key>
-				<string></string>
+				<string>Six inches</string>
 			</dict>
 		</dict>
 	</dict>
