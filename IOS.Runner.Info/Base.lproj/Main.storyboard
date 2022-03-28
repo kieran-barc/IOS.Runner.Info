@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="18122" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="YMz-mZ-71J">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="19455" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="YMz-mZ-71J">
     <device id="retina6_1" orientation="portrait" appearance="light"/>
     <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="18093"/>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19454"/>
         <capability name="System colors in document resources" minToolsVersion="11.0"/>
-        <capability name="collection view cell content view" minToolsVersion="11.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
@@ -17,40 +17,19 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <collectionViewFlowLayout key="collectionViewLayout" automaticEstimatedItemSize="YES" minimumLineSpacing="10" minimumInteritemSpacing="10" id="dCJ-DV-fS3">
-                            <size key="itemSize" width="170" height="125"/>
+                            <size key="itemSize" width="252" height="171"/>
                             <size key="headerReferenceSize" width="0.0" height="0.0"/>
                             <size key="footerReferenceSize" width="0.0" height="0.0"/>
                             <inset key="sectionInset" minX="0.0" minY="10" maxX="0.0" maxY="100"/>
                         </collectionViewFlowLayout>
-                        <cells>
-                            <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="Cell" id="zWN-k7-gKO" customClass="CollectionViewCell" customModule="IOS_Runner_Info" customModuleProvider="target">
-                                <rect key="frame" x="81" y="10" width="252" height="171"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <collectionViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" id="97G-Xd-8G2">
-                                    <rect key="frame" x="0.0" y="0.0" width="252" height="171"/>
-                                    <autoresizingMask key="autoresizingMask"/>
-                                    <subviews>
-                                        <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="nissan 370z" translatesAutoresizingMaskIntoConstraints="NO" id="flZ-vE-7zq" userLabel="CellImageView">
-                                            <rect key="frame" x="0.0" y="0.0" width="252" height="171"/>
-                                            <constraints>
-                                                <constraint firstAttribute="height" constant="169" id="0yH-eI-Rk8"/>
-                                                <constraint firstAttribute="width" constant="250" id="18K-gT-R7a"/>
-                                            </constraints>
-                                        </imageView>
-                                    </subviews>
-                                    <constraints>
-                                        <constraint firstItem="flZ-vE-7zq" firstAttribute="top" secondItem="97G-Xd-8G2" secondAttribute="top" id="DlT-TM-hTa"/>
-                                        <constraint firstAttribute="trailing" secondItem="flZ-vE-7zq" secondAttribute="trailing" id="TcA-37-0Zw"/>
-                                        <constraint firstItem="flZ-vE-7zq" firstAttribute="leading" secondItem="97G-Xd-8G2" secondAttribute="leading" id="iiS-RI-SG3"/>
-                                        <constraint firstAttribute="bottom" secondItem="flZ-vE-7zq" secondAttribute="bottom" id="sSs-IW-KG3"/>
-                                    </constraints>
-                                </collectionViewCellContentView>
-                                <size key="customSize" width="252" height="171"/>
-                                <connections>
-                                    <outlet property="cellImageView" destination="flZ-vE-7zq" id="mMf-7V-Yjs"/>
-                                </connections>
-                            </collectionViewCell>
-                        </cells>
+                        <label key="backgroundView" opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="BoU-P2-1ZP">
+                            <rect key="frame" x="0.0" y="0.0" width="414" height="808"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                            <nil key="textColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <cells/>
                         <connections>
                             <outlet property="dataSource" destination="3CI-S2-X85" id="Een-8N-g7c"/>
                             <outlet property="delegate" destination="3CI-S2-X85" id="AEf-tX-fL7"/>
@@ -86,7 +65,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="nissan 370z" width="1920" height="1080"/>
         <systemColor name="labelColor">
             <color white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
